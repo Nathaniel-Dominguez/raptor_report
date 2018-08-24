@@ -1,8 +1,8 @@
 {
-  "name": "auth-boiler",
+  "name": "raptor_report",
   "version": "1.0.0",
   "description": "Boilerplate for future use",
-  "repository": "https://github.com/Nathaniel-Dominguez/auth-boiler",
+  "repository": "https://github.com/Nathaniel-Dominguez/raptor_report",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
